@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Данила Маркелов <pink@dmpink.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+
+#. This file is distributed under the same license as the Chyrp Lite package.
+#: themes/sparrow/content/comment.twig:4
+#, php-format
+msgid "%s:"
+msgstr "%s:"
+
+#: themes/sparrow/content/comment.twig:6
+#, php-format
+msgid "%s said:"
+msgstr "%s сказал(а):"
+
+#: themes/sparrow/content/comment.twig:9
+msgid "This comment is awaiting moderation."
+msgstr "Этот комментарий ожидает модерации."
+
+#: themes/sparrow/content/post.twig:6
+msgid "Tags"
+msgstr "Теги"
+
+#: themes/sparrow/content/post.twig:15 themes/sparrow/feathers/audio.twig:6
+#: themes/sparrow/feathers/photo.twig:6 themes/sparrow/feathers/quote.twig:6
+#: themes/sparrow/feathers/text.twig:6 themes/sparrow/feathers/uploader.twig:6
+#: themes/sparrow/feathers/video.twig:6 themes/sparrow/pages/archive.twig:36
+#: themes/sparrow/pages/page.twig:6
+#, php-format
+msgid "Permanent link to &#8220;%s&#8221;"
+msgstr "Постоянная ссылка на &#8220;%s&#8221;"
+
+#: themes/sparrow/content/post.twig:17 themes/sparrow/layouts/default.twig:75
+msgid "Draft"
+msgstr "Черновик"
+
+#: themes/sparrow/content/post.twig:19
+msgid "Scheduled"
+msgstr "Запланировано"
+
+#: themes/sparrow/content/post.twig:21
+msgid "Pinned"
+msgstr "Закреплено"
+
+#: themes/sparrow/content/post.twig:29 themes/sparrow/pages/view.twig:20
+msgid "[Untitled]"
+msgstr "[Без названия]"
+
+#: themes/sparrow/content/post.twig:37
+msgid "View webmentions"
+msgstr "Просмотреть веб-упоминания"
+
+#: themes/sparrow/content/post.twig:38
+#, php-format
+msgid "%s webmention"
+msgid_plural "%s webmentions"
+msgstr[0] "%s веб-упоминание"
+msgstr[1] "%s веб-упоминания"
+msgstr[2] "%s веб-упоминаний"
+
+#: themes/sparrow/content/post.twig:43
+msgid "Comments closed"
+msgstr "Комментарии закрыты"
+
+#: themes/sparrow/content/post.twig:46
+msgid "View comments"
+msgstr "Просмотреть комментарии"
+
+#: themes/sparrow/content/post.twig:47
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#: themes/sparrow/feathers/audio.twig:10 themes/sparrow/feathers/link.twig:7
+#: themes/sparrow/feathers/photo.twig:13 themes/sparrow/feathers/quote.twig:9
+#: themes/sparrow/feathers/text.twig:9 themes/sparrow/feathers/uploader.twig:10
+#: themes/sparrow/feathers/video.twig:10
+msgid "Text Content"
+msgstr "Текстовое содержимое"
+
+#: themes/sparrow/feathers/audio.twig:14 themes/sparrow/feathers/photo.twig:9
+#: themes/sparrow/feathers/uploader.twig:16
+#: themes/sparrow/feathers/uploader.twig:20
+#: themes/sparrow/feathers/video.twig:14
+msgid "File Attachment"
+msgstr "Вложение файла"
+
+#: themes/sparrow/feathers/missing.twig:4
+msgid "The post cannot be displayed because the theme does not support it."
+msgstr "Запись не может быть отображена, так как эта тема её не поддерживает."
+
+#: themes/sparrow/feathers/uploader.twig:21
+msgid "File attachment:"
+msgstr "Вложение файла:"
+
+#: themes/sparrow/forms/comment/edit.twig:2
+msgid "Comment"
+msgstr "Комментарий"
+
+#: themes/sparrow/forms/comment/edit.twig:5
+msgid "Author"
+msgstr "Автор"
+
+#: themes/sparrow/forms/comment/edit.twig:8
+msgid "Author's website"
+msgstr "Сайт автора"
+
+#: themes/sparrow/forms/comment/edit.twig:10
+msgid "Author's email"
+msgstr "Email автора"
+
+#: themes/sparrow/forms/comment/edit.twig:15
+msgid "Timestamp"
+msgstr "Временная метка"
+
+#: themes/sparrow/forms/comment/edit.twig:18
+msgid "Status"
+msgstr "Статус"
+
+#: themes/sparrow/forms/comment/edit.twig:20
+msgid "Approved"
+msgstr "Одобрен"
+
+#: themes/sparrow/forms/comment/edit.twig:21
+msgid "Denied"
+msgstr "Отклонен"
+
+#: themes/sparrow/forms/comment/edit.twig:22
+msgid "Spam"
+msgstr "Спам"
+
+#: themes/sparrow/forms/comment/edit.twig:27
+msgid "Email Notifications"
+msgstr "Уведомления по электронной почте"
+
+#: themes/sparrow/forms/comment/edit.twig:35
+msgid "Save"
+msgstr "Сохранить"
+
+#: themes/sparrow/forms/comment/edit.twig:36
+msgid "Cancel"
+msgstr "Отмена"
+
+#: themes/sparrow/forms/comment/new.twig:3
+#, php-format
+msgid "%s's comment"
+msgstr "Комментарий %s"
+
+#: themes/sparrow/forms/comment/new.twig:5
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: themes/sparrow/forms/comment/new.twig:7
+msgid "Your email"
+msgstr "Ваш email"
+
+#: themes/sparrow/forms/comment/new.twig:9
+msgid "Your website"
+msgstr "Ваш сайт"
+
+#: themes/sparrow/forms/comment/new.twig:11
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: themes/sparrow/forms/comment/new.twig:14
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: themes/sparrow/forms/comment/new.twig:20
+msgid "Markdown is allowed."
+msgstr "Разрешено использование Markdown."
+
+#: themes/sparrow/forms/comment/new.twig:23
+msgid "HTML is allowed."
+msgstr "Разрешено использование HTML."
+
+#: themes/sparrow/forms/comment/new.twig:25
+msgid "HTML is not allowed."
+msgstr "Использование HTML запрещено."
+
+#: themes/sparrow/forms/comment/new.twig:30
+msgid "Notify me when others comment"
+msgstr "Уведомлять меня, когда другие комментируют"
+
+#: themes/sparrow/forms/comment/new.twig:43
+msgid "Speak"
+msgstr "Произнести"
+
+#: themes/sparrow/forms/user/controls.twig:5
+#: themes/sparrow/layouts/default.twig:80
+msgid "Controls"
+msgstr "Управление"
+
+#: themes/sparrow/forms/user/controls.twig:7
+msgid "Full name"
+msgstr "Полное имя"
+
+#: themes/sparrow/forms/user/controls.twig:9
+#: themes/sparrow/forms/user/register.twig:13
+#: themes/sparrow/layouts/default.twig:56
+msgid "Email"
+msgstr "Email"
+
+#: themes/sparrow/forms/user/controls.twig:11
+msgid "Website"
+msgstr "Сайт"
+
+#: themes/sparrow/forms/user/controls.twig:13
+#: themes/sparrow/forms/user/reset_password.twig:7
+msgid "New password?"
+msgstr "Новый пароль?"
+
+#: themes/sparrow/forms/user/controls.twig:15
+#: themes/sparrow/forms/user/reset_password.twig:9
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: themes/sparrow/forms/user/controls.twig:20
+msgid "Update"
+msgstr "Обновить"
+
+#: themes/sparrow/forms/user/login.twig:5
+#: themes/sparrow/forms/user/login.twig:14
+#: themes/sparrow/layouts/default.twig:92
+msgid "Log in"
+msgstr "Войти"
+
+#: themes/sparrow/forms/user/login.twig:7
+#: themes/sparrow/forms/user/lost_password.twig:7
+#: themes/sparrow/forms/user/register.twig:7
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: themes/sparrow/forms/user/login.twig:9
+#: themes/sparrow/forms/user/register.twig:9
+#: themes/sparrow/forms/user/register.twig:11
+msgid "Password"
+msgstr "Пароль"
+
+#: themes/sparrow/forms/user/login.twig:15
+msgid "Help!"
+msgstr "Помощь!"
+
+#: themes/sparrow/forms/user/lost_password.twig:5
+msgid "Lost password"
+msgstr "Восстановление пароля"
+
+#: themes/sparrow/forms/user/lost_password.twig:11
+#: themes/sparrow/forms/user/reset_password.twig:15
+msgid "Submit"
+msgstr "Отправить"
+
+#: themes/sparrow/forms/user/register.twig:5
+#: themes/sparrow/forms/user/register.twig:19
+#: themes/sparrow/layouts/default.twig:88
+msgid "Register"
+msgstr "Регистрация"
+
+#: themes/sparrow/forms/user/register.twig:11
+msgid "(again)"
+msgstr "(повторно)"
+
+#: themes/sparrow/forms/user/reset_password.twig:5
+msgid "Reset password"
+msgstr "Сбросить пароль"
+
+#: themes/sparrow/info.php:3
+msgid "Sparrow"
+msgstr "Sparrow"
+
+#: themes/sparrow/info.php:6
+msgid "An unobtrusive tumbleblog theme for Chyrp Lite."
+msgstr "Неброская тема для тамблблога на Chyrp Lite."
+
+#: themes/sparrow/layouts/default.twig:7
+#, php-format
+msgid "Page %d"
+msgstr "Страница %d"
+
+#: themes/sparrow/layouts/default.twig:46
+msgid "Links"
+msgstr "Ссылки"
+
+#: themes/sparrow/layouts/default.twig:60
+msgid "Feed"
+msgstr "Лента"
+
+#: themes/sparrow/layouts/default.twig:63
+msgid "Archive"
+msgstr "Архив"
+
+#: themes/sparrow/layouts/default.twig:67
+msgid "Admin"
+msgstr "Администрирование"
+
+#: themes/sparrow/layouts/default.twig:71
+msgid "Write"
+msgstr "Написать"
+
+#: themes/sparrow/layouts/default.twig:83
+msgid "Log out"
+msgstr "Выйти"
+
+#: themes/sparrow/layouts/default.twig:97
+msgid "Search&hellip;"
+msgstr "Поиск&hellip;"
+
+#: themes/sparrow/layouts/default.twig:97
+msgid "Search this blog"
+msgstr "Поиск по этому блогу"
+
+#: themes/sparrow/layouts/default.twig:98
+msgid "Search"
+msgstr "Поиск"
+
+#: themes/sparrow/layouts/default.twig:104
+msgid "&larr; Newer posts"
+msgstr "&larr; Новые записи"
+
+#: themes/sparrow/layouts/default.twig:115
+msgid "Older posts &rarr;"
+msgstr "Старые записи &rarr;"
+
+#: themes/sparrow/layouts/default.twig:125
+#, php-format
+msgid "Called from %s on line %d at %s seconds."
+msgstr "Вызов из %s, строка %d, время %s сек."
+
+#: themes/sparrow/pages/403.twig:4
+msgid "Forbidden."
+msgstr "Запрещено."
+
+#: themes/sparrow/pages/404.twig:4
+msgid "Not found."
+msgstr "Не найдено."
+
+#: themes/sparrow/pages/archive.twig:10
+#, php-format
+msgid "&larr; Archive of %s"
+msgstr "&larr; Архив за %s"
+
+#: themes/sparrow/pages/archive.twig:18
+msgid "F Y"
+msgstr "F Y"
+
+#: themes/sparrow/pages/archive.twig:47
+#, php-format
+msgid "Archive of %s &rarr;"
+msgstr "Архив за %s &rarr;"
+
+#: themes/sparrow/pages/archive.twig:54
+#, php-format
+msgid "Archive of %s"
+msgstr "Архив за %s"
+
+#: themes/sparrow/pages/archive.twig:61
+msgid "There aren't any posts in the timeframe you specified."
+msgstr "В указанном временном промежутке нет записей."
+
+#: themes/sparrow/pages/author.twig:5
+#, php-format
+msgid "Posts created by &#8220;%s&#8221;"
+msgstr "Записи, созданные &#8220;%s&#8221;"
+
+#: themes/sparrow/pages/author.twig:10
+msgid "This user hasn't created any posts."
+msgstr "Этот пользователь еще не создал ни одной записи."
+
+#: themes/sparrow/pages/category.twig:4
+#, php-format
+msgid "Posts in category &#8220;%s&#8221;"
+msgstr "Записи в категории &#8220;%s&#8221;"
+
+#: themes/sparrow/pages/drafts.twig:5
+msgid "Drafts"
+msgstr "Черновики"
+
+#: themes/sparrow/pages/drafts.twig:10
+msgid "You don't have any drafts."
+msgstr "У вас нет черновиков."
+
+#: themes/sparrow/pages/index.twig:7 themes/sparrow/pages/tags.twig:14
+msgid "Nothing here yet!"
+msgstr "Здесь пока ничего нет!"
+
+#: themes/sparrow/pages/search.twig:5
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска для &#8220;%s&#8221;"
+
+#: themes/sparrow/pages/search.twig:7
+msgid "Your search did not return any results."
+msgstr "Ваш поиск не дал результатов."
+
+#: themes/sparrow/pages/tag.twig:4
+#, php-format
+msgid "Posts tagged with &#8220;%s&#8221;"
+msgstr "Записи с тегом &#8220;%s&#8221;"
+
+#: themes/sparrow/pages/tags.twig:6
+msgid "Tag cloud"
+msgstr "Облако тегов"
+
+#: themes/sparrow/pages/updated.twig:5
+msgid "Updated posts"
+msgstr "Обновленные записи"
+
+#: themes/sparrow/pages/updated.twig:10
+msgid "There aren't any updated posts."
+msgstr "Нет обновленных записей."
+
+#: themes/sparrow/pages/view.twig:6
+msgid "&larr; Next post"
+msgstr "&larr; Следующая запись"
+
+#: themes/sparrow/pages/view.twig:12
+msgid "Previous post &rarr;"
+msgstr "Предыдущая запись &rarr;"
+
+#: themes/sparrow/pages/view.twig:17
+msgid "Webmentions"
+msgstr "Веб-упоминания"
+
+#: themes/sparrow/pages/view.twig:27
+msgid "Comments"
+msgstr "Комментарии"

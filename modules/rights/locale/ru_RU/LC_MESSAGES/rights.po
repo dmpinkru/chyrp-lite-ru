@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Данила Маркелов <pink@dmpink.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. This file is distributed under the same license as the Chyrp Lite package.
+#: modules/rights/admin/help/choosing_a_licence.twig:3
+msgid "Filtering Results"
+msgstr "Фильтрация результатов"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:6
+msgid "Choosing a License"
+msgstr "Выбор лицензии"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:8
+msgid ""
+"When you create a piece of content for your blog, you get to decide whether "
+"or not you want your name associated with it, and whether or not it can be "
+"reproduced and reused by other people. As the &#8220;rights holder&#8221;, "
+"the license you choose to apply to your work determines which of those "
+"rights you retain and which of them you waive."
+msgstr ""
+"Когда вы создаете контент для своего блога, вы сами решаете, хотите ли вы, "
+"чтобы ваше имя было с ним связано, и может ли он воспроизводиться и "
+"использоваться другими людьми. Как «правообладатель», выбранная вами "
+"лицензия определяет, какие из этих прав вы сохраняете, а от каких "
+"отказываетесь."
+
+#: modules/rights/admin/help/choosing_a_licence.twig:11
+msgid ""
+"Creative Commons is a family of licenses that you can use to donate your "
+"work to &#8220;the commons&#8221; — the body of work freely available for "
+"legal use, sharing, repurposing, and remixing. With a Creative Commons "
+"license, you can give other people permission to reproduce or reuse your "
+"work with certain restrictions. Here is a chart comparing the licenses:"
+msgstr ""
+"Creative Commons — это семейство лицензий, которые вы можете использовать, "
+"чтобы передать свою работу в «общее достояние» — совокупность произведений, "
+"свободно доступных для законного использования, обмена, изменения и "
+"ремикширования. С лицензией Creative Commons вы можете дать другим людям "
+"разрешение на воспроизведение или повторное использование вашей работы с "
+"определенными ограничениями. Ниже приведена таблица для сравнения лицензий:"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:17
+#: modules/rights/rights.php:128
+msgid "License"
+msgstr "Лицензия"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:19
+msgid "Others who use your work in any way must give you credit."
+msgstr ""
+"Другие, использующие вашу работу любым способом, должны указывать ваше "
+"авторство."
+
+#: modules/rights/admin/help/choosing_a_licence.twig:20
+msgid "Attribution"
+msgstr "Указание авторства"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:22
+msgid "Derivative works must be licensed under the same terms."
+msgstr "Производные работы должны лицензироваться на тех же условиях."
+
+#: modules/rights/admin/help/choosing_a_licence.twig:23
+msgid "ShareAlike"
+msgstr "Сохранение условий"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:25
+msgid "Your work may not be reproduced or reused for commercial gain."
+msgstr ""
+"Ваша работа не может воспроизводиться или использоваться для получения "
+"коммерческой выгоды."
+
+#: modules/rights/admin/help/choosing_a_licence.twig:26
+msgid "NonCommercial"
+msgstr "Некоммерческое использование"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:28
+msgid "Your work may be reproduced but it may not be modified."
+msgstr "Ваша работа может воспроизводиться, но не может быть изменена."
+
+#: modules/rights/admin/help/choosing_a_licence.twig:29
+msgid "NoDerivatives"
+msgstr "Без производных произведений"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:37
+#: modules/rights/rights.php:37 modules/rights/rights.php:154
+msgid "Creative Commons BY"
+msgstr "Creative Commons BY (С указанием авторства)"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:48
+#: modules/rights/rights.php:44 modules/rights/rights.php:161
+msgid "Creative Commons BY-ND"
+msgstr "Creative Commons BY-ND (С указанием авторства, без производных)"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:63
+#: modules/rights/rights.php:51 modules/rights/rights.php:168
+msgid "Creative Commons BY-SA"
+msgstr "Creative Commons BY-SA (С указанием авторства, с сохранением условий)"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:78
+#: modules/rights/rights.php:58 modules/rights/rights.php:175
+msgid "Creative Commons BY-NC"
+msgstr "Creative Commons BY-NC (С указанием авторства, некоммерческая)"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:93
+#: modules/rights/rights.php:65 modules/rights/rights.php:182
+msgid "Creative Commons BY-NC-ND"
+msgstr ""
+"Creative Commons BY-NC-ND (С указанием авторства, некоммерческая, без "
+"производных)"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:110
+#: modules/rights/rights.php:72 modules/rights/rights.php:189
+msgid "Creative Commons BY-NC-SA"
+msgstr ""
+"Creative Commons BY-NC-SA (С указанием авторства, некоммерческая, с "
+"сохранением условий)"
+
+#: modules/rights/admin/help/choosing_a_licence.twig:127
+#: modules/rights/rights.php:79 modules/rights/rights.php:196
+msgid "Creative Commons CC0"
+msgstr "Creative Commons CC0 (Общественное достояние)"
+
+#: modules/rights/info.php:3
+msgid "Rights"
+msgstr "Права"
+
+#: modules/rights/info.php:6
+msgid ""
+"Adds post options for attribution and assigning intellectual property rights."
+msgstr ""
+"Добавляет параметры записи для указания авторства и назначения прав на "
+"интеллектуальную собственность."
+
+#: modules/rights/info.php:11
+msgid "Do you want to remove rights data from the database?"
+msgstr "Вы хотите удалить данные о правах из базы данных?"
+
+#: modules/rights/rights.php:30 modules/rights/rights.php:207
+msgid "All rights reserved"
+msgstr "Все права защищены"
+
+#: modules/rights/rights.php:86
+msgid "Orphan Work"
+msgstr "Сиротское произведение"
+
+#: modules/rights/rights.php:93 modules/rights/rights.php:203
+msgid "Public Domain"
+msgstr "Общественное достояние"
+
+#: modules/rights/rights.php:100
+msgid "Crown Copyright"
+msgstr "Авторское право короны"
+
+#: modules/rights/rights.php:110
+msgid "Original Work"
+msgstr "Оригинальное произведение"
+
+#: modules/rights/rights.php:119
+msgid "Rights Holder"
+msgstr "Правообладатель"

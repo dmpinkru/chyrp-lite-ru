@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Данила Маркелов <pink@dmpink.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. This file is distributed under the same license as the Chyrp Lite package.
+#: feathers/photo/admin/help/photo_alt_text.twig:3
+#: feathers/photo/admin/help/photo_alt_text.twig:6 feathers/photo/photo.php:197
+msgid "Alternative Text"
+msgstr "Альтернативный текст"
+
+#: feathers/photo/admin/help/photo_alt_text.twig:8
+msgid ""
+"This text provides a brief description of the photo; it is useful for "
+"visually impaired visitors, and it will be displayed if the image format is "
+"not supported by the visitor's web browser or if the image has not yet "
+"downloaded."
+msgstr ""
+"Этот текст содержит краткое описание фотографии; он полезен для слабовидящих "
+"посетителей и будет отображаться, если формат изображения не поддерживается "
+"веб-браузером посетителя или если изображение еще не загрузилось."
+
+#: feathers/photo/admin/help/photo_source.twig:3
+#: feathers/photo/admin/help/photo_source.twig:6
+msgid "Photo Source"
+msgstr "Источник фотографии"
+
+#: feathers/photo/admin/help/photo_source.twig:8
+msgid "This is a URL that will take visitors to the original resource."
+msgstr "Это URL-адрес, который перенаправит посетителей к исходному ресурсу."
+
+#: feathers/photo/info.php:3 feathers/photo/photo.php:18
+msgid "Photo"
+msgstr "Фотография"
+
+#: feathers/photo/info.php:6
+msgid "Upload and display an image with a caption."
+msgstr "Загрузка и отображение изображения с подписью."
+
+#: feathers/photo/photo.php:10
+msgid "Title"
+msgstr "Заголовок"
+
+#: feathers/photo/photo.php:27
+msgid "Caption"
+msgstr "Подпись"
+
+#: feathers/photo/photo.php:70
+msgid "You did not select a photo to upload."
+msgstr "Вы не выбрали фотографию для загрузки."
+
+#: feathers/photo/photo.php:205
+msgid "Source"
+msgstr "Источник"

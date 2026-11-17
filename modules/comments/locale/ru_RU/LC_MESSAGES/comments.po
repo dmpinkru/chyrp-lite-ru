@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Данила Маркелов <pink@dmpink.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. This file is distributed under the same license as the Chyrp Lite package.
+#: modules/comments/admin/pages/comment_settings.twig:3
+#: modules/comments/admin/pages/comment_settings.twig:6
+msgid "Comment Settings"
+msgstr "Настройки комментариев"
+
+#: modules/comments/admin/pages/comment_settings.twig:10
+msgid "Site Notifications"
+msgstr "Уведомления сайта"
+
+#: modules/comments/admin/pages/comment_settings.twig:14
+msgid "Notify the site contact by email when a comment is added."
+msgstr ""
+"Уведомлять контактное лицо сайта по электронной почте при добавлении нового "
+"комментария."
+
+#: modules/comments/admin/pages/comment_settings.twig:18
+msgid "Author Notifications"
+msgstr "Уведомления автора"
+
+#: modules/comments/admin/pages/comment_settings.twig:21
+msgid "Notify the post author by email when a comment is added."
+msgstr ""
+"Уведомлять автора записи по электронной почте при добавлении нового "
+"комментария."
+
+#: modules/comments/admin/pages/comment_settings.twig:24
+msgid "Default Comment Status"
+msgstr "Статус комментария по умолчанию"
+
+#: modules/comments/admin/pages/comment_settings.twig:36
+msgid "HTML in Comments"
+msgstr "HTML в комментариях"
+
+#: modules/comments/admin/pages/comment_settings.twig:39
+msgid "Allow some groups of users to enter HTML directly in comment text."
+msgstr ""
+"Разрешить некоторым группам пользователей вводить HTML-код непосредственно в "
+"текст комментария."
+
+#: modules/comments/admin/pages/comment_settings.twig:43
+msgid "Allowed HTML"
+msgstr "Разрешённый HTML"
+
+#: modules/comments/admin/pages/comment_settings.twig:44
+msgid "(comma separated)"
+msgstr "(через запятую)"
+
+#: modules/comments/admin/pages/comment_settings.twig:49
+msgid "HTML tags that can be added by users, Markdown filtering, and modules."
+msgstr ""
+"HTML-теги, которые могут добавлять пользователи, фильтрация Markdown и "
+"модули."
+
+#: modules/comments/admin/pages/comment_settings.twig:53
+msgid "Comments Per Page"
+msgstr "Комментариев на странице"
+
+#: modules/comments/admin/pages/comment_settings.twig:57
+msgid "Themes decide whether or not to paginate comments."
+msgstr ""
+"Темы оформления определяют, использовать ли постраничную навигацию для "
+"комментариев."
+
+#: modules/comments/admin/pages/comment_settings.twig:61
+msgid "Reload Comments"
+msgstr "Перезагружать комментарии"
+
+#: modules/comments/admin/pages/comment_settings.twig:65
+msgid "Show newly added comments (up to the maximum number per page)."
+msgstr ""
+"Показывать новые комментарии (в пределах максимального количества на "
+"странице)."
+
+#: modules/comments/admin/pages/comment_settings.twig:69
+msgid "Reload Interval"
+msgstr "Интервал перезагрузки"
+
+#: modules/comments/admin/pages/comment_settings.twig:72
+msgid "(seconds)"
+msgstr "(секунды)"
+
+#: modules/comments/admin/pages/delete_comment.twig:3
+#: modules/comments/admin/pages/delete_comment.twig:6
+msgid "Delete Comment?"
+msgstr "Удалить комментарий?"
+
+#: modules/comments/admin/pages/delete_comment.twig:10
+#, php-format
+msgid "&#8220;%s&#8221; will be permanently deleted."
+msgstr "«%s» будет удалён без возможности восстановления."
+
+#: modules/comments/admin/pages/edit_comment.twig:3
+msgid "Edit Comment"
+msgstr "Редактировать комментарий"
+
+#: modules/comments/admin/pages/edit_comment.twig:6
+#, php-format
+msgid "Editing Comment on &#8220;%s&#8221;"
+msgstr "Редактирование комментария к записи «%s»"
+
+#: modules/comments/admin/pages/edit_comment.twig:13
+msgid "Body"
+msgstr "Текст"
+
+#: modules/comments/admin/pages/edit_comment.twig:27
+msgid "Author"
+msgstr "Автор"
+
+#: modules/comments/admin/pages/edit_comment.twig:32
+msgid "Author Email"
+msgstr "Email автора"
+
+#: modules/comments/admin/pages/edit_comment.twig:36
+msgid "Author Website"
+msgstr "Сайт автора"
+
+#: modules/comments/admin/pages/edit_comment.twig:43
+msgid "Timestamp"
+msgstr "Время"
+
+#: modules/comments/admin/pages/edit_comment.twig:48
+#: modules/comments/admin/pages/manage_comments.twig:26
+msgid "Status"
+msgstr "Статус"
+
+#: modules/comments/admin/pages/edit_comment.twig:51
+#: modules/comments/comments.php:757
+msgid "Approved"
+msgstr "Одобрено"
+
+#: modules/comments/admin/pages/edit_comment.twig:53
+#: modules/comments/comments.php:758
+msgid "Denied"
+msgstr "Отклонено"
+
+#: modules/comments/admin/pages/edit_comment.twig:55
+#: modules/comments/admin/pages/manage_spam.twig:18
+#: modules/comments/comments.php:759
+msgid "Spam"
+msgstr "Спам"
+
+#: modules/comments/admin/pages/edit_comment.twig:62
+msgid "Email Notifications"
+msgstr "Email-уведомления"
+
+#: modules/comments/admin/pages/edit_comment.twig:72
+msgid "Save"
+msgstr "Сохранить"
+
+#: modules/comments/admin/pages/edit_comment.twig:74
+#: modules/comments/admin/pages/manage_comments.twig:95
+#: modules/comments/admin/pages/manage_spam.twig:81
+msgid "Delete"
+msgstr "Удалить"
+
+#: modules/comments/admin/pages/manage_comments.twig:3
+msgid "Manage Comments"
+msgstr "Управление комментариями"
+
+#: modules/comments/admin/pages/manage_comments.twig:18
+#: modules/comments/comments.php:828 modules/comments/comments.php:866
+#: modules/comments/comments.php:883 modules/comments/info.php:3
+msgid "Comments"
+msgstr "Комментарии"
+
+#: modules/comments/admin/pages/manage_comments.twig:24
+#: modules/comments/admin/pages/manage_spam.twig:24
+msgid "Post"
+msgstr "Запись"
+
+#: modules/comments/admin/pages/manage_comments.twig:25
+#: modules/comments/admin/pages/manage_spam.twig:25
+msgid "Added"
+msgstr "Добавлено"
+
+#: modules/comments/admin/pages/manage_comments.twig:47
+msgid "Webmention"
+msgstr "Webmention"
+
+#: modules/comments/admin/pages/manage_comments.twig:83
+#: modules/comments/admin/pages/manage_spam.twig:72
+msgid "With selected:"
+msgstr "С выбранными:"
+
+#: modules/comments/admin/pages/manage_comments.twig:86
+#: modules/comments/admin/pages/manage_spam.twig:75
+msgid "Deny"
+msgstr "Отклонить"
+
+#: modules/comments/admin/pages/manage_comments.twig:89
+#: modules/comments/admin/pages/manage_spam.twig:78
+msgid "Approve"
+msgstr "Одобрить"
+
+#: modules/comments/admin/pages/manage_comments.twig:92
+msgid "Mark as Spam"
+msgstr "Пометить как спам"
+
+#: modules/comments/admin/pages/manage_comments.twig:98
+#: modules/comments/admin/pages/manage_spam.twig:84
+msgid "Batch Process"
+msgstr "Пакетная обработка"
+
+#: modules/comments/admin/pages/manage_spam.twig:3
+msgid "Manage Spam"
+msgstr "Управление спамом"
+
+#: modules/comments/comments.php:88
+msgid "Add Comments"
+msgstr "Добавлять комментарии"
+
+#: modules/comments/comments.php:89
+msgid "Add Comments to Private Posts"
+msgstr "Добавлять комментарии к приватным записям"
+
+#: modules/comments/comments.php:90
+msgid "Edit Comments"
+msgstr "Редактировать комментарии"
+
+#: modules/comments/comments.php:91
+msgid "Edit Own Comments"
+msgstr "Редактировать свои комментарии"
+
+#: modules/comments/comments.php:92
+msgid "Delete Comments"
+msgstr "Удалять комментарии"
+
+#: modules/comments/comments.php:93
+msgid "Delete Own Comments"
+msgstr "Удалять свои комментарии"
+
+#: modules/comments/comments.php:94
+msgid "Use HTML in Comments"
+msgstr "Использовать HTML в комментариях"
+
+#: modules/comments/comments.php:103
+msgid "Please enter an ID to find a comment."
+msgstr "Введите ID для поиска комментария."
+
+#: modules/comments/comments.php:136
+msgid "Most commented on posts"
+msgstr "Самые комментируемые записи"
+
+#: modules/comments/comments.php:158
+msgid "An ID is required to add a comment."
+msgstr "Для добавления комментария требуется ID."
+
+#: modules/comments/comments.php:172
+msgid "You cannot comment on this post."
+msgstr "Вы не можете комментировать эту запись."
+
+#: modules/comments/comments.php:178 modules/comments/comments.php:285
+msgid "Message can't be blank."
+msgstr "Сообщение не может быть пустым."
+
+#: modules/comments/comments.php:184 modules/comments/comments.php:291
+msgid "Author can't be blank."
+msgstr "Имя автора не может быть пустым."
+
+#: modules/comments/comments.php:190 modules/comments/comments.php:297
+msgid "Email address can't be blank."
+msgstr "Адрес email не может быть пустым."
+
+#: modules/comments/comments.php:196 modules/comments/comments.php:303
+msgid "Invalid email address."
+msgstr "Неверный адрес email."
+
+#: modules/comments/comments.php:202 modules/comments/comments.php:309
+msgid "Invalid website URL."
+msgstr "Неверный URL сайта."
+
+#: modules/comments/comments.php:211
+msgid "Incorrect captcha response."
+msgstr "Неверный ответ на капчу."
+
+#: modules/comments/comments.php:243
+msgid "Comment added."
+msgstr "Комментарий добавлен."
+
+#: modules/comments/comments.php:244
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: modules/comments/comments.php:259
+msgid "An ID is required to update a comment."
+msgstr "Для обновления комментария требуется ID."
+
+#: modules/comments/comments.php:268 modules/comments/comments.php:390
+#: modules/comments/comments.php:420 modules/comments/comments.php:460
+#: modules/comments/comments.php:962 modules/comments/comments.php:995
+#: modules/comments/comments.php:1031
+msgid "Comment not found."
+msgstr "Комментарий не найден."
+
+#: modules/comments/comments.php:274 modules/comments/comments.php:396
+#: modules/comments/comments.php:1001
+msgid "You do not have sufficient privileges to edit this comment."
+msgstr "У вас недостаточно прав для редактирования этого комментария."
+
+#: modules/comments/comments.php:339
+msgid "Comment updated."
+msgstr "Комментарий обновлён."
+
+#: modules/comments/comments.php:378 modules/comments/comments.php:983
+msgid "An ID is required to edit a comment."
+msgstr "Для редактирования комментария требуется ID."
+
+#: modules/comments/comments.php:411 modules/comments/comments.php:448
+#: modules/comments/comments.php:1022
+msgid "An ID is required to delete a comment."
+msgstr "Для удаления комментария требуется ID."
+
+#: modules/comments/comments.php:426 modules/comments/comments.php:466
+#: modules/comments/comments.php:1037
+msgid "You do not have sufficient privileges to delete this comment."
+msgstr "У вас недостаточно прав для удаления этого комментария."
+
+#: modules/comments/comments.php:472 modules/comments/comments.php:1042
+msgid "Comment deleted."
+msgstr "Комментарий удалён."
+
+#: modules/comments/comments.php:483 modules/comments/comments.php:537
+msgid "You do not have sufficient privileges to manage any comments."
+msgstr "У вас недостаточно прав для управления комментариями."
+
+#: modules/comments/comments.php:618
+msgid "Selected comments deleted."
+msgstr "Выбранные комментарии удалены."
+
+#: modules/comments/comments.php:654
+msgid "Selected comments denied."
+msgstr "Выбранные комментарии отклонены."
+
+#: modules/comments/comments.php:690
+msgid "Selected comments approved."
+msgstr "Выбранные комментарии одобрены."
+
+#: modules/comments/comments.php:724
+msgid "Selected comments marked as spam."
+msgstr "Выбранные комментарии помечены как спам."
+
+#: modules/comments/comments.php:851
+#, php-format
+msgid "Comments (%d)"
+msgstr "Комментарии (%d)"
+
+#: modules/comments/comments.php:857
+#, php-format
+msgid "Spam (%d)"
+msgstr "Спам (%d)"
+
+#: modules/comments/comments.php:902
+msgid "An ID is required to reload comments."
+msgstr "Для перезагрузки комментариев требуется ID."
+
+#: modules/comments/comments.php:920
+#, php-format
+msgid "Comments added since %s"
+msgstr "Комментарии, добавленные после %s"
+
+#: modules/comments/comments.php:953
+msgid "An ID is required to show a comment."
+msgstr "Для отображения комментария требуется ID."
+
+#: modules/comments/comments.php:1138 modules/comments/comments.php:1166
+#: modules/comments/comments.php:1317 modules/comments/comments.php:1388
+#, php-format
+msgid "Comments on &#8220;%s&#8221;"
+msgstr "Комментарии к записи «%s»"
+
+#: modules/comments/comments.php:1176 modules/comments/comments.php:1460
+#, php-format
+msgid "Spam comments on &#8220;%s&#8221;"
+msgstr "Спам-комментарии к записи «%s»"
+
+#: modules/comments/comments.php:1273
+msgid "You have unsubscribed from the conversation."
+msgstr "Вы отписались от этой беседы."
+
+#: modules/comments/comments.php:1336 modules/comments/comments.php:1407
+#: modules/comments/comments.php:1479
+#, php-format
+msgid "Comment #%d"
+msgstr "Комментарий №%d"
+
+#: modules/comments/comments.php:1513
+msgid "A ping from your URL is already registered."
+msgstr "Пинг с вашего URL уже зарегистрирован."
+
+#: modules/comments/comments.php:1520
+msgid "Your URL is too long to be stored in our database."
+msgstr "Ваш URL слишком длинный для сохранения в базе данных."
+
+#: modules/comments/comments.php:1525
+msgid "Mentioned this post."
+msgstr "Упомянул эту запись."
+
+#: modules/comments/comments.php:1548
+msgid "Open"
+msgstr "Открыто"
+
+#: modules/comments/comments.php:1555
+msgid "Closed"
+msgstr "Закрыто"
+
+#: modules/comments/comments.php:1562
+msgid "Private"
+msgstr "Приватно"
+
+#: modules/comments/comments.php:1569
+msgid "Registered Only"
+msgstr "Только для зарегистрированных"
+
+#: modules/comments/comments.php:1579
+msgid "Comment Status"
+msgstr "Статус комментариев"
+
+#: modules/comments/comments.php:1836 modules/comments/comments.php:1864
+#: modules/comments/comments.php:1897
+#, php-format
+msgid "New Comment at %s"
+msgstr "Новый комментарий на %s"
+
+#: modules/comments/comments.php:1837 modules/comments/comments.php:1865
+#: modules/comments/comments.php:1898
+#, php-format
+msgid "%s commented on a blog post:"
+msgstr "%s оставил комментарий к записи:"
+
+#: modules/comments/comments.php:1906
+msgid "Unsubscribe from this conversation:"
+msgstr "Отписаться от этой беседы:"
+
+#: modules/comments/info.php:6
+msgid "Adds commenting functionality to your posts, with webmention support."
+msgstr ""
+"Добавляет функциональность комментариев к вашим записям с поддержкой "
+"Webmention."
+
+#: modules/comments/info.php:12
+msgid "Please remember to update the permission settings for each group."
+msgstr "Не забудьте обновить настройки прав доступа для каждой группы."
+
+#: modules/comments/info.php:14
+msgid "Do you want to remove comments from the database?"
+msgstr "Удалить комментарии из базы данных?"
+
+#: modules/comments/javascript.php:64
+msgid "Are you sure you want to permanently delete this comment?"
+msgstr "Вы уверены, что хотите навсегда удалить этот комментарий?"
+
+#: modules/comments/model/Comment.php:592
+msgid "Anon"
+msgstr "Аноним"
